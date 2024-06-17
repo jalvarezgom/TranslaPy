@@ -1,0 +1,2 @@
+DEEPL_SECRET_KEY = ""
+RAISE_ERRORS = True
